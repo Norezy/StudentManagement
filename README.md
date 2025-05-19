@@ -1,1 +1,3 @@
-THIS IS THE FIRST PHP 
+the super-admin account is
+Email: superadmin@gmail.com
+Password: 12345
