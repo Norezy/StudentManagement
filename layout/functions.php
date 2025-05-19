@@ -13,7 +13,7 @@ function ConfirmLogout(){
                     if (result.isConfirmed) {
                         var form = document.createElement("form");
                         form.method = "POST";
-                        form.action = "/SMS/auth/logout.php";  // The PHP file that will handle the logout
+                        form.action = "/StudentManagement/auth/logout.php";  // The PHP file that will handle the logout
 
                         // Optionally, add a hidden input field if you need to send extra data
                         var input = document.createElement("input");
